@@ -11,7 +11,8 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/jhanrq8888/DAD-2024.git # ruta del repositorio git
+          uri: https://github.com/jhanrq8888/DAD2024.git # ruta del repositorio git
+
           search-paths: config-data
           default-label: ms-config-server
 
